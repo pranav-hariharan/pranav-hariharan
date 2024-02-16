@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍🎓 11th-grade ISC student at Ambassador School, Dubai
-💻 Studying computer science, aspiring to pursue it in the future
-💡 Passionate about coding and problem-solving
+- 👨‍🎓 11th-grade ISC student at Ambassador School, Dubai
+- 💻 Studying computer science, aspiring to pursue it in the future
+- 💡 Passionate about coding and problem-solving
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavhariharan-ae) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23423061) 
